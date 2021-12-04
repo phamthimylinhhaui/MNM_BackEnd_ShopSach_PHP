@@ -1,0 +1,99 @@
+body{
+	font-family: "Poppins", sans-serif;
+}
+.container {
+    width: 90%;
+    margin: auto;
+}
+.row {
+    display: flex;
+}
+.main-left {
+    width: 25%;
+}
+.logo {
+    width: 20%;
+    font-size: 60px;
+    color: #F15B67 !important;
+    font-family: fangsong;
+}
+.main-left ul {
+    list-style: none;
+    margin-left: -35px;
+}
+.main-left ul li {
+    padding: 20px 0;
+}
+.main-left ul li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.main-right {
+    width: 75%;
+    background: #F5F5F5;
+    border: 1px solid gray;
+    border-radius: 15px;
+    margin-top: 2%;
+}
+h2 {
+    padding: 20px;
+}
+.col {
+    width: 30%;
+    padding: 40px;
+    display: flex;
+    border: 1px solid #F15B67;
+    background: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+.col>i {
+    width: 50%;
+    FONT-SIZE: 40px;
+    color: #F15B67;
+    padding-left: 0px;
+}
+.container2 {
+    width: 90%;
+    margin: auto;
+    background: white;
+    border: 1px solid #F15B67;
+    border-radius: 5px;
+}
+button {
+    margin: 10px 43px;
+    padding: 5px;
+    background: #F15B67;
+   
+}
+button>a{
+	text-decoration: none;
+	padding: 5px;
+	color: white;
+}
+.col1 {
+    width: 25%;
+    text-align: center;
+    padding: 10px;
+}
+.col1>a{
+	text-decoration: none;
+	color: #F15B67;
+}
+div#themdm {
+    padding: 10px;
+    line-height: 2;
+}
+.tendm {
+    font-weight: bold;
+}
+input[type="textbox"] {
+    width: 30%;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#editDM {
+    margin: 0;
+}
